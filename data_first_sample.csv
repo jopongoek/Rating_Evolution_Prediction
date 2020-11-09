@@ -1,0 +1,20 @@
+1;Current ratio;Y;
+2;Total debt to equity;AV;
+3;Sales to total assets;AQ;
+4;Working capital to total assets;BA/total asset;total asset = bs_tot_asset
+5;Total liabilites to total assets;?;
+6;Net profit to total assets;AN/total asset;net profit = net income ?
+7;Equity to total assets;AS/total asset;
+8;Net profit to equity;AN/AS;
+9;Quick ratio;?;
+10;Net profit margin;?;net profit margin ?
+11;Unappropriate balance to total assets;?;
+12;Working capital to sales;BA/?;sales = sales rev turn ?
+13;Gross profitabilitiy;?;
+14;Current assets to total assets;?;
+15;Cash to total assets;U;
+16;EBIT to total assets;AB/total asset;
+17;EBIT to sales;AB/sales;
+18;Cash to current liabilities;cash/L;
+19;Sales to long term assets;?;
+20;Long term debt to equity;?;
